@@ -1,7 +1,7 @@
 # Installing JupyterNotebook (Windows / Linux)
 
 1. Follow the directions at the link below to install Anaconda and Jupyter:
-	http://jupyter.readthedocs.io/en/latest/install.html
+http://jupyter.readthedocs.io/en/latest/install.html
 
 2. Install the python 3.6 version, 64-bit
 
