@@ -24,7 +24,7 @@
 3. Navigate to the AnacondaProjects folder, then the desired project folder.
 
 
-#Launching JupyterNotebook (Linux)
+# Launching JupyterNotebook (Linux)
 
 1. Open a terminal window
 
