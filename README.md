@@ -1,3 +1,6 @@
+# Git LFS
+We store our datasets with Git LFS because some of them are quite large. Make sure you have git lfs installed on your machine. You might have to do a `git lfs pull` to fully download all dataset files.
+
 # Installing JupyterNotebook (Windows / Linux)
 
 1. Follow the directions at the link to install Anaconda and Jupyter:  
@@ -5,6 +8,9 @@
 
 2. Install the python 3.6 version, 64-bit
 
+pip3 install --upgrade pip --user
+sudo pip3 install jupyter
+sudo pip3 install matplotlib
 
 # Importing a project to JupyterNotebook (Windows)
 
